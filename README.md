@@ -1,4 +1,4 @@
-**Retail Sales Dashboard Automation (Excel + Python)**
+**Retail Sales Dashboard Automation | Python, Pandas, OpenPyXL, Excel**
 
 This project automates the process of analyzing retail sales data (from the Sample Superstore dataset) and generating a multi-sheet Excel Dashboard with automatic formatting, totals, and highlights.
 Features
